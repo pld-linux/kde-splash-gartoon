@@ -3,7 +3,7 @@ Summary:	KDE splash screen
 Summary(pl):	Ekran startowy KDE
 Name:		kde-splash-%{_splash}
 Version:	0.1
-Release:	0.1
+Release:	0.2
 License:	GPL
 Group:		X11/Amusements
 Source0:	http://www.kde-look.org/content/files/20031-gartoonss.tar.gz
