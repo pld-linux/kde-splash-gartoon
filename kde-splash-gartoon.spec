@@ -16,6 +16,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 gartoon splash screen.
 
+%description -l pl
+Ekran startowy gartoon.
+
 %prep
 %setup -q -n gartoonss
 
